@@ -1,0 +1,60 @@
+Henrique Madeira; henriquemadeira@dei.uc.pt; SSE; 201;  239701000
+Guilherme Vasconcelos; guilhermevasconcelos@dei.uc.pt; SSE; 202;  239702000
+Viviana Dourado; vivianadourada@dei.uc.pt; SSE; 203; 239703000
+Tristão Figueiró; tristaofigueiro@dei.uc.pt; SSE; 204; 239704000
+Matilde Mateus; matildematues@dei.uc.pt; SSE; 205; 239705000
+Eliseu Mesquita; eliseumesquita@dei.uc.pt; SSE; Multiobjective sequence alignment: Formulation, algorithms and application; 12/01/22; Henrique Madeira
+António Raposo; antonioraposo@dei.uc.pt; SSE; Cover Story : book covers and graphic design in Portugal 1940 - 1970; 13/03/23; Guilherme Vasconcelos
+Rúben Manso; rubenmanso@dei.uc.pt; SSE; Emotion-based Analysis and Classification of Audio Music; 01/08/21; Viviana Dourado
+Bartolomeu Sardinha; bartolomeusardinha@dei.uc.pt; SSE; Evolutionary Computation for Classifier Assessment and Improvement; 20/02/25; Matilde Mateus
+Sara Vieira; saravieira@dei.uc.pt; SSE; Self Adaptation in Ant Colony Optimisation; 13/03/23; Tristão Figueiró
+Penousal Machado; penousalmachado@dei.uc.pt; CMS; 206; 239706000
+Miguel Olaio; miguelolaio@dei.uc.pt; CMS; 207; 239707000
+Laura Pimentel; laurapimentel@dei.uc.pt; CMS; 208; 239708000
+Beatriz Varela; beatrizvarela@dei.uc.pt; CMS; 209; 239709000
+Bernardete Ribeiro; bernadeteribeiro@dei.uc.pt; CMS; 210; 239710000
+Luis Barreira; luisbarreira@dei.uc.pt; CMS; Information Extraction from Crowds in Dynamic Environments; 08/02/28; Penousal Machado
+Henrique Dias; henriquedias@dei.uc.pt; CMS; RAPPort: A Fact-Based Question Answering for Portuguese; 08/03/21; Penousal Machado
+Alfredo Pinho; alfredopinho@dei.uc.pt; CMS;  Automatic Optimization of Granularity Control Algorithms for Parallel Programs; 18/12/23; Laura Pimentel
+Rogério Pestana; rogeriopestana@dei.uc.pt; CMS; Emotion-Based Analysis and Classification of Music Lyrics; 01/02/21; Miguel Olaio
+Isabel Viana; isabelviana@dei.uc.pt; CMS; Ambiente Computacional Adaptativo e Colaborativo para a Aprendizagem da Geometria; 25/08/23; Bernardete Ribeiro
+Nuno Lourenço; nunolourenço@dei.uc.pt; ECOS; 211; 239711000
+Eva Montenegro; evamontenegro@dei.uc.pt; ECOS; 212; 239712000
+Luísa Vilaça; luisavilaça@dei.uc.pt; ECOS; 213; 239713000
+Emanuel Botica; emanuelbotica@dei.uc.pt; ECOS; 214; 239714000
+Carmen César; carmencesar@dei.uc.pt; ECOS; 215; 239715000
+António Távora; antoniotavora@dei.uc.pt; ECOS; Performance Measurement in Wireless Sensor Networks; 23/06/22; Nuno Lourenço
+Elisa Lopes; elisalopes@dei.uc.pt; ECOS; Probabilistic Models for Learning from Crowdsourced Data; 28/11/24; Eva Montenegro
+Alberto Cardoso; albertocardoso@dei.uc.pt; ECOS;  Analysis of Taxi Data for Understanding Urban Dynamics; 19/08/22; Emanuel Botica
+Ana Boavida; anaboavida@dei.uc.pt; ECOS; Reliable Distributed Communication: Design Solutions and Protocols; 01/01/22; Luísa Vilaça
+Bruno Cabral; brunocabral@dei.uc.pt; ECOS; Learning Under Distribution Mismatch Applied to BioSignal Processing; 23/10/26; Nuno Lourenço
+Jorge Henriques; jorgehenriques@dei.uc.pt; AC; 216; 239716000
+Marília Curado; mariliacurado@dei.uc.pt; AC; 217; 239717000
+Bernadete Ribeiro; bernadeteribeiro@dei.uc.pt; AC; 218; 239718000
+Bruno Sousa; brunosousa@dei.uc.pt; AC; 219; 239719000
+Carlos Bento; carlosbento@dei.uc.pt; AC; 220; 239720000
+André Riker; andreriker@dei.uc.pt; AC; Enhancing Grammar-Based Approaches for the Automatic Design of Algorithms; 12/07/23; Marília Curado
+António Cruz; antoniocruz@dei.uc.pt; AC; Abordagens para Cubo de Dados Massivos com Alta Cardinalidade Baseadas em Memória Principal e Memória Externa: HIC e bCubing; 16/09/25; Jorge Henriques
+Bruna Sousa; brunosousa@dei.uc.pt; AC; Fault Injection for Online Failure Prediction Assessment and Improvement; 29/05/22; Marília Curado
+Bruno Taborda; brunotaborda@dei.uc.pt; AC; A computational model inspired by gene regulatory networks; 03/01/24; Bruno Sousa
+Adriana Leal; adrianaleal@dei.uc.pt; AC; Information systems and quality management systems: researching lifecycle synergies; 23/02/22; Carlos Bento
+Licínio Roque; licinioroque@dei.uc.pt; IS; 301; 239721000
+João Correia; joaocorreia@dei.uc.pt; IS; 302; 239722000
+Jorge Granola; jorgegranola@dei.uc.pt; IS; 303; 239723000
+Edmundo Monteiro; edmundomonteiro@dei.uc.pt; IS; 304; 239724000
+César Teixeira; cesarteixeira@dei.uc.pt; IS; 305; 239725000
+Jéssica Parente; jessicaparente@dei.uc.pt; IS;  End-to-end security solutions for Internet-integrated Wireless Sensor Networks; 27/12/21; Licínio Roque
+Francisco Antunes; franciscoantunes@dei.uc.pt; IS; Trust and Reputation for Critical Infrastructure Protection; 21/05/25; João Correia
+João Gonçalves; joaogonçalves@dei.uc.pt; IS; Software Vulnerability Detection in Service-Based Infrastructures: Techniques and Tools; 12/03/23; Edmundo Monteiro
+João Cunha; joaocunha@dei.uc.pt; IS; Machine Learning for Adaptive Multi-Core Machines; 05/05/25; César Teixeira
+Renato Panda; renatopanda@dei.uc.pt; IS; 15/08/26; Multihoming Aware Optimization Mechanism; Jorge Granola
+Paulo Simões; paulosimoes@dei.uc.pt; LCT; 306; 239726000
+Jaime Correia; jaimecorreia@dei.uc.pt; LCT; 307; 239727000
+Ernesto Costa; ernestocosta@dei.uc.pt; LCT; 308; 239728000
+Fernando Boavida; fernandoboavida@dei.uc.pt; LCT; 309; 239729000
+João Barata; joaobarata@dei.uc.pt; LCT; 310; 239730000			
+Ana Rodrigues; anarodrigues@dei.uc.pt; LCT; Estudo e Implementação de um Sistema Automático de Transformação de Programas Recursivos; 19/12/21; Paulo Simões
+Evandro Mourinho; evandromourinho@dei.uc.pt; LCT; Controlo da Congestão em Sistemas Intermediários da Camada de Rede; 31/12/22; Jaime Correia
+Catarina Maçãs; catarinamaças@dei.uc.pt; LCT; Dérécursivation Automatique en Utilisant des Systèmes de Réecriture de Termes; 25/11/23; Ernesto Costa
+Diogo Pessoa; diogopessoa@dei.uc.pt; LCT; Quality of Service Routing for Class-Based Networks; 27/12/24; Fernando Boavida 
+David Abreu; davidabreu@dei.uc.pt; LCT; Modelação e Simulação de Sistemas de Eventos Discretos com Estrutura Dinâmica: Uma Abordagem Baseada na Teoria dos Sistemas; 11/12/23; João Barato

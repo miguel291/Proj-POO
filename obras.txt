@@ -1,0 +1,39 @@
+
+Livro 8
+
+Isabel Viana, Rogério Pestana, Eliseu Mesquita; Introdução à Criptografia; 2019; 12300; criptografia,cifras;Fundamentos da criptografia;Editora UC; 239712				
+Tristão Figueiró;Redes de ordenadores; 2013; 7500; redes,tranferência de dados;Análise de redes;Editora UC; 239732
+Bruno Sousa,Jorge Granola; Aprendizagem Computacional em Engenharia; 2017; 1500; engenharia,AI;Inteligência Artificial na Engenharia;Editora UC; 239729
+Francisco Antunes, Eva Montenegro; Segurança Prática; 2010; 10000; segurança,práticas de boa programação;Algumas práticas de boa programação;Editora UC; 239758
+Marília Curado,Nuno Lourenço,Edmundo Monteiro; Assembly para Noobs; 2003; 19000;assembly,fundamentos;Iniciação à programção em Assembly;Editora UC; 239739
+
+Revista 8
+
+Henrique Madeira,Rúben Manso, Eliseu Mesquita; Inteligência Artificial; 2020; 1010; informática, futuro;Tudo sobre informática;12/09/20;25
+Alfredo Pinho, António Raposo, Licínio Roque;Robótica; 2020; 250; robots, automação;Tudo sobre informática;12/08/20;24
+Carlos Bento,Alberto Cardoso,Catarina Maçãs; IoT; 2020; 1010; Internet of Things, futuro;Tudo sobre informática;12/07/20;23
+Luis Barreira,Henrique Dias; Self Driving Cars; 2020; 500; condução autónoma, deep learning;Tudo sobre informática;12/06/20;22
+Guilherme Vasconcelos, Matilde Mateus, Nuno Lourenço; Smartphones e Gadgets; 2020; 2000; gadgets, sistemas operativos;Tudo sobre informática;29/10/15;1
+
+Capitulo 11
+
+Ernesto Costa,Bernardete Ribeiro;Python para Noobs;2020;640;python,introdução;Uma breve introdução ao Python;Caminho;234980;Capitulo 1;13;27
+Ernesto Costa,Renato Panda;Java para Noobs;2019;300;Java,introdução;Uma breve introdução ao Java;Caminho;234983;Capitulo 3;68;90
+Ernesto Costa;C para Noobs;2001;300;C,introdução;Uma breve introdução ao C;Caminho;234982;Capitulo 9;215;239
+Ernesto Costa,Penousal Machado;C++ para Noobs;2017;300;C++,introdução;Uma breve introdução ao C++;Caminho;234981;Capitulo 1;12;22
+Ernesto Costa,Francisco Antunes, Ana Rodrigues;JavaScript para Noobs;2010;300;JavaScript,introdução;Uma breve introdução ao JavaScript;Caminho;234984;Capitulo 5;117;150
+
+LivroConf 10
+
+Marília Curado, Adriana Leal,Jéssica Parente;Robótica 2015;2015;7500;robótica,2015;Artigos da Conferência de Robótica de 2015;Editora UC;234993;Conferência anual de Robótica em Portugal;15
+Bruno Cabral,Paulo Simões;Robótica 2019;2019;8000;robótica,2019;Artigos da Conferência de Robótica de 2019;Editora UC;234998;Conferência anual de Robótica em Portugal";15
+Evandro Mourinho,Carmen César,Ana Boavida;Robótica 2014;2014;3670;robótica,2014;Artigos da Conferência de Robótica de 2014;Editora UC;234992;Conferência anual de Robótica em Portugal;15
+Edmundo Monteiro,Marília Curado,Jorge Granola;Robótica 2009;2009;5000;robótica,2009;Artigos da Conferência de Robótica de 2009;Editora UC;234290;"onferência anual de Robótica em Portugal;15
+Luis Barreira,Alfredo Pinho, Isabel Viana;Robótica 2005;2005;2400;robótica,2005;Artigos da Conferência de Robótica de 2005;Editora UC;234192;Conferência anual de Robótica em Portugal;15
+
+
+Diogo Pessoa, João Gonçalves,Bruna Sousa;Self-Driving Cars;2019;500;AI,mobilidade;Conferência de 2019;Conferência de Informática;12/4/19;Lisboa
+Jaime Correia, Elisa Lopes, Emanuel Botica;Ecologia e tecnologia;2017;600;ecologia,sustentabilidade;Conferência de 2017;Conferência de Informática;12/4/17;Lisboa
+Eva Montenegro, Jaime Correia, David Abreu;Smartwatches;2015;100;gadgets,wearables;Conferência de 2015;Conferência de Informática;12/4/15;Lisboa
+João Barata, André Riker;Smart Cities;2013;990;urbanismo,tecnologia;Conferência de 2013;Conferência de Informática;12/4/13;Lisboa
+André Riker,Jorge Henriques;Cloud, the new big thing;2011;500;cloud,trabalho remoto;Conferência de 2011;Conferência de Informática;12/4/11;Lisboa
